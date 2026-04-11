@@ -4,14 +4,14 @@ This is a small Java+Kotlin project I developed a year ago for learning purposes
 
 It includes:
 - Android app (location tracking)
-- Java desktop app (writing the data into shapefile)
-- Simple PHP backend
+- Java desktop app (writing the data into shapefile
+- PHP Backend
 
 ## Note
 
 This project is not production-ready.
 
-I built it for learning purposes, so things like authentication, security, and configuration are simple. Never hardcode DB credentials into the application in a real production environment!
+I built it for learning purposes, so things like authentication, security, and configuration are simple. Never hardcode DB credentials into the application in a real production environment! 
 
 ## Setup
 

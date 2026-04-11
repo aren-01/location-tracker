@@ -11,7 +11,7 @@ It includes:
 
 This project is not production-ready.
 
-I built it for learning purposes, so things like authentication, security, and configuration are simple. Never hardcode DB credentials into the application!
+I built it for learning purposes, so things like authentication, security, and configuration are simple. Never hardcode DB credentials into the application in a real production environment!
 
 ## Setup
 

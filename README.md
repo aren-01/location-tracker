@@ -7,7 +7,7 @@ It includes:
 - Java desktop app (writing the data into shapefile
 - PHP Backend
 
-## Note
+## Disclaimer
 
 This project is not production-ready.
 
@@ -17,9 +17,6 @@ I built it for learning purposes, so things like authentication, security, and c
 
 Before testing the project:
 
-- Update database credentials (do not use the default `root` / empty password, set your own)
-- Replace the LocalTunnel URL with your own active backend/tunnel address
+Update database credentials (do not use the default `root` and the empty password, set your own.
+Replace the LocalTunnel URL with your own active backend/tunnel address.
 
-## Disclaimer
-
-This project is shared as an example of my learning process, not as a secure or production-grade system.
